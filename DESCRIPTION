@@ -35,4 +35,6 @@ Author: Mark Chen [aut, cre],
   Wenbin Lu [aut],
   Jung-Ying Tzeng [aut],
   Ping-Yang Chen [aut]
+URL: https://github.com/yuting1214/TensorTest2D
+BugReports: https://github.com/yuting1214/TensorTest2D/issues
 Maintainer: Mark Chen <l501l501l@gmail.com>
