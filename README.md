@@ -1,5 +1,5 @@
-[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/TensorTest2D)](
-https://cran.r-project.org/package=TensorTest2D)
+[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/TensorTest2D?color=green)](https://cran.r-project.org/package=TensorTest2D)
+[![](http://cranlogs.r-pkg.org/badges/grand-total/badger?color=green)](https://cran.r-project.org/package=badger)
 [![Downloads](https://cranlogs.r-pkg.org/badges/TensorTest2D)](https://CRAN.R-project.org/package=TensorTest2D)
 [![Total Downloads](https://cranlogs.r-pkg.org/badges/grand-total/TensorTest2D?color=orange)](https://CRAN.R-project.org/package=TensorTest2D)
 
