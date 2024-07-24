@@ -30,6 +30,10 @@ B_True <- B_True / 10
 W <- matrix(rnorm(n*n_d), n, n_d); W[,1] <- 1
 X <- array(rnorm(n*n_P*n_G), dim=c(n_P, n_G, n))
 
+## Regression Data
+y_R<- as.vector(W%*%beta_True + X%hp%B_True + rnorm(n))
+DATA_R <- list(y = y_R, X = X, W = W)
+
 # Execution (Regression)
 result_R <- tensorReg2D(y = DATA_R$y, X = DATA_R$X, W=NULL, n_R = 1, family = "gaussian",
                         opt = 1, max_ite = 100, tol = 10^(-7) )
