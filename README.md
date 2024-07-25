@@ -43,9 +43,9 @@ head(predict(result_R, DATA_R$X))
 ```
 
 # Relevant Packages
-* [tensor](https://cran.r-project.org/web/packages/tensor/index.html): The tensor product of two arrays is notionally an outer product of the arrays collapsed in specific extents by summing along the appropriate diagonals.
-* [rTensor](https://cran.r-project.org/web/packages/rTensor/index.html): Tools for Tensor Analysis and Decomposition
-* [tensorregress](https://cran.r-project.org/web/packages/tensorregress/index.html): Implement the alternating algorithm for supervised tensor decomposition with interactive side information.
+* [tensor](https://CRAN.R-project.org/package=tensor): The tensor product of two arrays is notionally an outer product of the arrays collapsed in specific extents by summing along the appropriate diagonals.
+* [rTensor](https://CRAN.R-project.org/package=rTensor): Tools for Tensor Analysis and Decomposition
+* [tensorregress](https://CRAN.R-project.org/package=tensorregress): Implement the alternating algorithm for supervised tensor decomposition with interactive side information.
 
 # Publications
 
